@@ -1,0 +1,420 @@
+[
+  {
+    "destination": "Goa",
+    "generated_at": "2025-09-11T16:01:54.648042",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "Beach relaxation"
+        ],
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 2,
+        "activities": [
+          "Water sports"
+        ],
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 3,
+        "activities": [
+          "Night market shopping"
+        ],
+        "estimated_cost": 6666.666666666667
+      }
+    ],
+    "total_cost": 20000.0,
+    "budget": 20000
+  },
+  {
+    "destination": "Manali",
+    "generated_at": "2025-09-11T16:02:37.789774",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "Hadimba Temple visit"
+        ],
+        "estimated_cost": 4000.0
+      },
+      {
+        "day": 2,
+        "activities": [
+          "Solang Valley adventure sports"
+        ],
+        "estimated_cost": 4000.0
+      },
+      {
+        "day": 3,
+        "activities": [
+          "Mall Road shopping"
+        ],
+        "estimated_cost": 4000.0
+      },
+      {
+        "day": 4,
+        "activities": [
+          "Hadimba Temple visit"
+        ],
+        "estimated_cost": 4000.0
+      },
+      {
+        "day": 5,
+        "activities": [
+          "Solang Valley adventure sports"
+        ],
+        "estimated_cost": 4000.0
+      }
+    ],
+    "total_cost": 20000.0,
+    "budget": 20000
+  },
+  {
+    "destination": "Tokyo",
+    "generated_at": "2025-09-11T16:05:24.861269",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "Shibuya crossing"
+        ],
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 2,
+        "activities": [
+          "Sushi tasting"
+        ],
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 3,
+        "activities": [
+          "Mount Fuji day trip"
+        ],
+        "estimated_cost": 6666.666666666667
+      }
+    ],
+    "total_cost": 20000.0,
+    "budget": 20000
+  },
+  {
+    "destination": "Dubai",
+    "generated_at": "2025-09-11T16:15:54.726561",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "Burj Khalifa visit"
+        ],
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 2,
+        "activities": [
+          "Desert safari"
+        ],
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 3,
+        "activities": [
+          "Dubai Mall shopping"
+        ],
+        "estimated_cost": 6666.666666666667
+      }
+    ],
+    "total_cost": 20000.0,
+    "budget": 20000
+  },
+  {
+    "destination": "Jaipur",
+    "generated_at": "2025-09-11T16:35:19.699973",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "Amber Fort tour"
+        ],
+        "weather": "2025-09-11: 27.62\u00b0C, few clouds",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 2,
+        "activities": [
+          "City Palace visit"
+        ],
+        "weather": "2025-09-12: 25.68\u00b0C, scattered clouds",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 3,
+        "activities": [
+          "Hawa Mahal photography"
+        ],
+        "weather": "2025-09-13: 26.47\u00b0C, clear sky",
+        "estimated_cost": 6666.666666666667
+      }
+    ],
+    "total_cost": 20000.0,
+    "budget": 20000
+  },
+  {
+    "destination": "Goa",
+    "generated_at": "2025-09-11T16:49:07.505965",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "Beach relaxation"
+        ],
+        "weather": "2025-09-11: 26.21\u00b0C, overcast clouds",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 2,
+        "activities": [
+          "Water sports"
+        ],
+        "weather": "2025-09-12: 23.72\u00b0C, overcast clouds",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 3,
+        "activities": [
+          "Night market shopping"
+        ],
+        "weather": "2025-09-13: 22.78\u00b0C, overcast clouds",
+        "estimated_cost": 6666.666666666667
+      }
+    ],
+    "total_cost": 20000.0,
+    "budget": 20000
+  },
+  {
+    "destination": "Kerala",
+    "generated_at": "2025-09-11T16:54:17.483628",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "Backwater houseboat ride"
+        ],
+        "weather": "2025-09-11: 25.82\u00b0C, light rain",
+        "estimated_cost": 3333.3333333333335
+      },
+      {
+        "day": 2,
+        "activities": [
+          "Ayurvedic spa"
+        ],
+        "weather": "2025-09-12: 23.13\u00b0C, light rain",
+        "estimated_cost": 3333.3333333333335
+      },
+      {
+        "day": 3,
+        "activities": [
+          "Tea plantation tour"
+        ],
+        "weather": "2025-09-13: 22.88\u00b0C, light rain",
+        "estimated_cost": 3333.3333333333335
+      }
+    ],
+    "total_cost": 10000.0,
+    "budget": 10000
+  },
+  {
+    "destination": "Tokyo",
+    "generated_at": "2025-09-11T17:02:36.512120",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "Shibuya crossing"
+        ],
+        "weather": "2025-09-11: 23.73\u00b0C, light rain",
+        "estimated_cost": 3333.3333333333335
+      },
+      {
+        "day": 2,
+        "activities": [
+          "Sushi tasting"
+        ],
+        "weather": "2025-09-12: 23.92\u00b0C, light rain",
+        "estimated_cost": 3333.3333333333335
+      },
+      {
+        "day": 3,
+        "activities": [
+          "Mount Fuji day trip"
+        ],
+        "weather": "2025-09-13: 26.81\u00b0C, overcast clouds",
+        "estimated_cost": 3333.3333333333335
+      }
+    ],
+    "total_cost": 10000.0,
+    "budget": 10000
+  },
+  {
+    "destination": "Tokyo",
+    "generated_at": "2025-09-11T17:14:08.949466",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "Shibuya crossing"
+        ],
+        "weather": "2025-09-11: 23.69\u00b0C, light rain",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 2,
+        "activities": [
+          "Mt. Fuji day trip"
+        ],
+        "weather": "2025-09-12: 23.92\u00b0C, light rain",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 3,
+        "activities": [
+          "Akihabara shopping"
+        ],
+        "weather": "2025-09-13: 26.81\u00b0C, overcast clouds",
+        "estimated_cost": 6666.666666666667
+      }
+    ],
+    "total_cost": 20000.0,
+    "budget": 20000
+  },
+  {
+    "destination": "Tokyo",
+    "generated_at": "2025-09-11T17:14:08.954595",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "Shibuya crossing"
+        ],
+        "weather": "2025-09-11: 23.69\u00b0C, light rain",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 2,
+        "activities": [
+          "Mt. Fuji day trip"
+        ],
+        "weather": "2025-09-12: 23.92\u00b0C, light rain",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 3,
+        "activities": [
+          "Akihabara shopping"
+        ],
+        "weather": "2025-09-13: 26.81\u00b0C, overcast clouds",
+        "estimated_cost": 6666.666666666667
+      }
+    ],
+    "total_cost": 20000.0,
+    "budget": 20000
+  },
+  {
+    "destination": "Goa",
+    "generated_at": "2025-09-11T17:15:18.440657",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "beach walk"
+        ],
+        "weather": "2025-09-11: 26.21\u00b0C, overcast clouds",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 2,
+        "activities": [
+          "nightlife party"
+        ],
+        "weather": "2025-09-12: 23.72\u00b0C, overcast clouds",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 3,
+        "activities": [
+          "water sports"
+        ],
+        "weather": "2025-09-13: 22.78\u00b0C, overcast clouds",
+        "estimated_cost": 6666.666666666667
+      }
+    ],
+    "total_cost": 20000.0,
+    "budget": 20000
+  },
+  {
+    "destination": "Goa",
+    "generated_at": "2025-09-11T17:15:24.464604",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "beach walk"
+        ],
+        "weather": "2025-09-11: 26.21\u00b0C, overcast clouds",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 2,
+        "activities": [
+          "nightlife party"
+        ],
+        "weather": "2025-09-12: 23.72\u00b0C, overcast clouds",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 3,
+        "activities": [
+          "water sports"
+        ],
+        "weather": "2025-09-13: 22.78\u00b0C, overcast clouds",
+        "estimated_cost": 6666.666666666667
+      }
+    ],
+    "total_cost": 20000.0,
+    "budget": 20000
+  },
+  {
+    "destination": "Goa",
+    "generated_at": "2025-09-19T05:03:54.191180",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          "beach walk"
+        ],
+        "weather": "2025-09-19: 26.21\u00b0C, moderate rain",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 2,
+        "activities": [
+          "nightlife party"
+        ],
+        "weather": "2025-09-20: 28.21\u00b0C, light rain",
+        "estimated_cost": 6666.666666666667
+      },
+      {
+        "day": 3,
+        "activities": [
+          "water sports"
+        ],
+        "weather": "2025-09-21: 28.32\u00b0C, light rain",
+        "estimated_cost": 6666.666666666667
+      }
+    ],
+    "total_cost": 20000.0,
+    "budget": 20000
+  }
+]

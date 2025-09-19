@@ -1,0 +1,82 @@
+{
+  "Goa": {
+    "activities": ["beach walk", "nightlife party", "water sports", "sunset cruise", "local seafood tour"],
+    "weather": ["29°C, clear sky", "30°C, sunny", "28°C, partly cloudy", "27°C, humid"],
+    "cost_per_day": 5000,
+    "hotels": [
+    {"name": "Taj Exotica", "price": 8000},
+    {"name": "Goa Marriott Resort", "price": 6000},
+    {"name": "Budget Inn", "price": 2500}
+  ]
+  },
+  "Manali": {
+    "activities": ["snow trekking", "solang valley adventure", "visit Hadimba Temple", "local shopping", "river rafting"],
+    "weather": ["12°C, snowfall", "15°C, cloudy", "10°C, chilly winds", "8°C, snow showers"],
+    "cost_per_day": 4000,
+    "hotels": [
+      {"name": "The Himalayan", "price": 7000},
+      {"name": "Manali Inn", "price": 5000},
+      {"name": "Budget Stay", "price": 2000}
+    ]
+  },
+  "Jaipur": {
+    "activities": ["Amber Fort tour", "Hawa Mahal visit", "local markets", "cultural show", "palace dinner"],
+    "weather": ["32°C, sunny", "30°C, hot & dry", "29°C, partly cloudy", "28°C, breezy"],
+    "cost_per_day": 4500,
+    "hotels": [
+      {"name": "Rambagh Palace", "price": 9000},
+      {"name": "Jaipur Marriott", "price": 6500},
+      {"name": "Budget Lodge", "price": 2200}
+    ]
+  },
+  "Tokyo": {
+    "activities": ["Shibuya crossing", "Mt. Fuji day trip", "Akihabara shopping", "Tokyo Tower", "Sushi tour"],
+    "weather": ["22°C, cloudy", "20°C, light rain", "24°C, sunny", "18°C, cool breeze"],
+    "cost_per_day": 9000,
+    "hotels": [
+      {"name": "Park Hyatt Tokyo", "price": 15000},
+      {"name": "Shinjuku Granbell Hotel", "price": 10000},
+      {"name": "Capsule Hotel", "price": 3000}
+    ]
+  },
+  "Paris": {
+    "activities": ["Eiffel Tower", "Louvre Museum", "Seine River cruise", "local cafes", "Notre Dame"],
+    "weather": ["19°C, sunny", "21°C, partly cloudy", "17°C, light rain", "20°C, breezy"],
+    "cost_per_day": 8500,
+    "hotels": [
+      {"name": "Hôtel de Crillon", "price": 20000},
+      {"name": "Le Meurice", "price": 18000},
+      {"name": "Budget Hotel", "price": 5000}
+    ]
+  },
+  "Kerala": {
+    "activities": ["houseboat ride", "backwater cruise", "local spices tour", "beach relaxation", "wildlife safari"],
+    "weather": ["28°C, humid", "30°C, rainy", "29°C, cloudy", "27°C, clear"],
+    "cost_per_day": 5500,
+    "hotels": [
+      {"name": "Kumarakom Lake Resort", "price": 12000},
+      {"name": "Spice Tree Munnar", "price": 8000},
+      {"name": "Budget Homestay", "price": 3000}
+    ]
+  },
+  "New York": {
+    "activities": ["Statue of Liberty", "Central Park", "Times Square", "Broadway show", "Brooklyn Bridge walk"],
+    "weather": ["25°C, sunny", "22°C, cloudy", "20°C, light rain", "18°C, windy"],
+    "cost_per_day": 10000,
+    "hotels": [
+      {"name": "The Ritz-Carlton", "price": 30000},
+      {"name": "New York Hilton", "price": 20000},
+      {"name": "Budget Inn", "price": 8000}
+    ]
+  },
+  "Dubai": {
+    "activities": ["Burj Khalifa", "Desert Safari", "Dubai Mall", "Palm Jumeirah", "Marina Cruise"],
+    "weather": ["38°C, hot & sunny", "40°C, humid", "37°C, dry heat", "36°C, clear"],
+    "cost_per_day": 9500,
+    "hotels": [
+      {"name": "Burj Al Arab", "price": 60000},
+      {"name": "Atlantis The Palm", "price": 50000},
+      {"name": "Budget Hotel", "price": 10000}
+    ]
+  }
+}
